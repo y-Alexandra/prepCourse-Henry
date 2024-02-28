@@ -1,2 +1,1 @@
-# prepCourse-Henry
-Este es un repositorio de prueba de SoyHenry
+Este proyecto es una prueba de como crear un repositorio en git
